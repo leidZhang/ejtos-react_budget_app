@@ -1,0 +1,25 @@
+.increaseBtn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: limegreen;
+    border: limegreen;
+    position: relative;
+    color: white;
+    font-weight: bold;
+    line-height: 35px;
+    font-size: 40px;
+}
+
+.decreaseBtn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: darkred;
+    border: darkred;
+    position: relative;
+    color: white;
+    font-weight: bold;
+    line-height: 35px;
+    font-size: 40px;
+}
