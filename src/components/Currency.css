@@ -1,0 +1,8 @@
+.currency {
+    background-color: lawngreen;
+    color: white;
+}
+
+.currency option {
+    color: black;
+}
